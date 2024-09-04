@@ -1,5 +1,5 @@
 [Appearance]
-ColorScheme=Solarized
+ColorScheme=BlackOnWhite
 
 [General]
 Name=Fuck
